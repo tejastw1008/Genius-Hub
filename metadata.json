@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Genius Hub: AI Student Toolkit",
+  "description": "An all-in-one AI-powered application designed to assist students with presentation creation, homework, assignments, and creative media generation. It leverages a suite of Gemini models for a wide range of tasks.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
